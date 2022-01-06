@@ -1,6 +1,7 @@
 # gcwfm
 
-This script creates a makefile that changes the gcc warning to error.
+This script creates a makefile for c and cpp that changes the gcc warning to error.
+
 
 # usage
 
